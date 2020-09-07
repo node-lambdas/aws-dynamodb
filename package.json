@@ -1,0 +1,8 @@
+{
+  "name": "@node-lambdas/aws-dynamodb",
+  "version": "1.0.0",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  }
+}
